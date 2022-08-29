@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kforkiran
-- 👀 I’m interested in ... Java | spring boot | hibernate | javascript | react-redux | docker | kubernetes | GCP
+- 👋 Hi, I’m @kiran pawar
+- 👀 I’m interested in ... Java | spring boot | hibernate | javascript | typescript | Angular | react-redux | docker | kubernetes | AWS | GCP
 - 🌱 I’m currently learning ... Kotlin
 - 💞️ I’m looking to collaborate on ... Open source
 - 📫 How to reach me ... pawar_kiran@live.in
